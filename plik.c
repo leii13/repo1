@@ -2,7 +2,7 @@
 
 int main() {
 	printf("czesc");
-	printf("dwa");
+	printf("dwa\n");
 	return 0;
 }
 
