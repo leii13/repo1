@@ -15,5 +15,6 @@ int main(){
 	printf("Podaj rok urodzenia ");
 	scanf("%d", &r);
 	printf("Osoba: %s %s, urodzona: %d-%d-%d\n", imie, nazw, d, m, r);
+	printf("Koniec dzialania\n");
 	return 0;
 }
