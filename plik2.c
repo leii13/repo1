@@ -16,5 +16,6 @@ int main(){
 	scanf("%d", &r);
 	printf("Osoba: %s %s, urodzona: %d-%d-%d\n", imie, nazw, d, m, r);
 	printf("Koniec dzialania\n");
+	printf("wersja 1");
 	return 0;
 }
