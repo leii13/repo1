@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-	int d, m,r;
+	int d, m,r,i;
 	char imie[20];
 	char nazw[30];
 	printf("Podaj imie ");
